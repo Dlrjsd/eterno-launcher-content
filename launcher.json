@@ -1,0 +1,39 @@
+{
+  "game": {
+    "minecraft": "1.21.4",
+    "loader": {
+      "type": "fabric",
+      "version": "0.18.4"
+    }
+  },
+  "server": {
+    "host": "localhost",
+    "port": 25565
+  },
+  "discord": "https://discord.gg/HRmZqtS7",
+  "strictFolders": [
+    "mods"
+  ],
+  "notices": [
+    {
+      "title": "에테르노 개발 진행 중",
+      "date": "2026-11-07",
+      "body": "에테르노 서버는 현재 개발 단계입니다.\n소식은 디스코드에서 확인해 주세요."
+    }
+  ],
+  "updates": [
+    {
+      "title": "룬 감정 시스템",
+      "date": "2026-11-07",
+      "body": "룬 옵션 잠금과 새로운 감정 화면, 효과음이 추가되었습니다."
+    }
+  ],
+  "files": [
+    {
+      "path": "mods/eterno-rune-1.1.1.jar",
+      "url": "https://raw.githubusercontent.com/Dlrjsd/eterno-launcher-content/main/files/mods/eterno-rune-1.1.1.jar",
+      "sha1": "3fda30a4283f78d25a68013bbb9acde910d35433",
+      "size": 1449467
+    }
+  ]
+}
